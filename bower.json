@@ -1,0 +1,26 @@
+{
+  "name": "angular-starter-seed",
+  "version": "0.0.0",
+  "authors": [
+    "Abhishek Goray <abhishek.goray@gmail.com>"
+  ],
+  "description": "a starter template for angular js front end projects",
+  "main": "app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.5",
+    "angular-cookie": "~4.0.9",
+    "angular-ui-router": "~0.2.15",
+    "oclazyload": "~1.0.4"
+  },
+  "resolutions": {
+    "angular": ">=1.2.x <=1.4.x"
+  }
+}
